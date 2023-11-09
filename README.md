@@ -65,4 +65,4 @@
 <li>😄 Pronouns: He/She/They</li>
 <li>⚡ Fun fact: I am the winner of the world hide and seek championship against semicolon!</li>
 </ul>
-<p><img src="https://raw.githubusercontent.com/CS-LucasGuimaraes/CS-LucasGuimaraes/b49e42582b7e4c4ff3f212c0e1d2b99b9d24d7f1/github-contribution-grid-snake.svg" alt="Snake animation"></p>
+<p><img src="https://raw.githubusercontent.com/CS-LucasGuimaraes/CS-LucasGuimaraes/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"></p>
