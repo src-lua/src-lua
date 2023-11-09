@@ -60,7 +60,7 @@
 
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/CS-LucasGuimaraes/QuadratiCalc">QuadratiCalc</a>.</li>
-<li>🌱 I’m currently learning Java.</li>
+<li>🌱 I’m currently learning Python and C.</li>
 <li>📫 You can reach me on <a href="mailto:cs.lucas.guimaraes@gmail.com">cs.lucas.guimaraes@gmail.com</a>.</li>
 <li>😄 Pronouns: He/She/They</li>
 <li>⚡ Fun fact: I am the winner of the world hide and seek championship against semicolon!</li>
