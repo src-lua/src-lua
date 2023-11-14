@@ -19,11 +19,12 @@
 <p> <strong>IT Support Technician</strong>  <i>2020</i> <br>
 <i>Super Séries 2020</i> </p>
 
-<blockquote > <p align="justify"> Super Séries is a sports project by <i>"Colégio Oficina"</i> that had the 2020 edition online due to the pandemic. On that occasion, I worked to manage all activities and helped resolve any issues the organization had. </p> </blockquote>
+<blockquote > <p align="justify"> <i>"Super Séries"</i> is a sports project accomplished by <i>"Colégio Oficina"</i> that had the 2020 edition online due to the pandemic. On that occasion, I worked to manage all activities and helped resolve any issues the organization had. </p> </blockquote>
 
 <h3>🎓Educational Background: </h3>
-<p> <strong>Bachelor of Computer Science</strong>  <i>2023~today</i> <br>
-<i>Universidade Federal de Pernambuco - UPFE</i> </p>
+<p><strong>Bachelor of Computer Science</strong>  <i>2023~today</i> <br>
+<i>Center of Informatics | Centro de Informática (CIn)</i> <br>
+<i>Federal University of Pernambuco | Universidade Federal de Pernambuco (UPFE)</i> </p>
 
 <h3>📝 My Projects: </h3>
 
