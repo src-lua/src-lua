@@ -35,6 +35,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=dark&show_owner=true" />
 </a> 
 <br><br>
+<a href="https://github.com/CS-LucasGuimaraes/MaratonaCIn2023">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn2023&theme=dark&show_owner=true" />
+</a>
+<br><br>
 <a href="https://github.com/CS-LucasGuimaraes/quadraticalc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=quadraticalc&theme=dark&show_owner=true" />
 </a>
