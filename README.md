@@ -1,7 +1,7 @@
 <div div style='display: inline'>
 <img align="left"  src="https://dcbadge.vercel.app/api/shield/294562171877195777" align="center" height="" />
 <a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank"><img align="right" src="https://www.svgrepo.com/show/452213/gmail.svg" align="center" alt="cl.lucas.guimaraes@gmail.com" height="40" width="40" /></a>
-<a href="https://discord.com/invite/Lucat564#8198" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" align="center" alt="Lucat564#8198" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/294562171877195777" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" align="center" alt="lucat564" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/cs-lucasguimaraes" target="_blank"><img align="right"src="https://www.svgrepo.com/show/475661/linkedin-color.svg" align="center" alt="cs-lucasguimaraes" height="30" width="40" /></a>
 <a href="https://github.com/CS-LucasGuimaraes" target="_blank"><img align="right" src="https://www.svgrepo.com/show/35001/github.svg" align="center" alt="cs-lucasguimaraes" height="40" width="40" /></a>
 </div>
@@ -51,21 +51,16 @@
 <p align="left"> &nbsp; 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="python" width="40" height="40"/> </a> &nbsp; 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="c" width="40" height="40"/></a> &nbsp; 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" align="center" alt="java" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" align="center" alt="html5" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" align="center" alt="css3" width="40" height="40"/> </a> &nbsp; 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center"alt="javascript" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" align="center" alt="illustrator" width="40" height="40"/> </a> &nbsp; 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  align="center"alt="git" width="40" height="40"/> </a> &nbsp; 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" align="center" alt="linux" width="40" height="40"/> </a> &nbsp;
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++" width="40" height="40"/> </a> &nbsp; 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  align="center"alt="git" width="40" height="40"/> </a> &nbsp;
 </p>
 
 <hr>
 <h3> Interesting Info: </h3>
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/CS-LucasGuimaraes/QuadratiCalc">QuadratiCalc</a>.</li>
-<li>🌱 I’m currently learning Python and C.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/CS-LucasGuimaraes/MaratonaCIn2023">Contest for MaratonaCIn</a>.</li>
+<li>🌱 I’m currently learning C++.</li>
 <li>📫 You can reach me on <a href="mailto:cs.lucas.guimaraes@gmail.com">cs.lucas.guimaraes@gmail.com</a>.</li>
 <li>😄 Pronouns: He/She/They</li>
 <li>⚡ Fun fact: I am the winner of the world hide and seek championship against semicolon!</li>
