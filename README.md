@@ -1,20 +1,20 @@
+<!-- Header -->
 
-
-<!-- HEADER -->
-
-<a href="https://discordapp.com/users/294562171877195777" target="_blank"> <img align="left" src="https://dcbadge.vercel.app/api/shield/294562171877195777" alt="lucat564" height= 30 width=auto /> </a>
-<a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank"><img align="right" src="https://www.svgrepo.com/show/452213/gmail.svg" align="center" alt="cs.lucas.guimaraes@gmail.com" height="40" width=auto /></a>
+<a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank"><img align="right" src="https://www.svgrepo.com/show/452213/gmail.svg" align="center" alt="cs.lucas.guimaraes@gmail.com" height="45" width=auto /></a>
+<a href="https://discordapp.com/users/294562171877195777" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" align="center" alt="lucat564" height="45" width=auto /></a>
+<a href="https://linkedin.com/in/cs-lucasguimaraes" target="_blank"><img align="right" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" align="center" alt="cs-lucasguimaraes" height="35" width=auto /></a>
 <a href="https://github.com/CS-LucasGuimaraes" target="_blank"><img align="right" src="https://www.svgrepo.com/show/35001/github.svg" align="center" alt="cs-lucasguimaraes" height="35" width=auto /></a>
-<a href="https://discordapp.com/users/294562171877195777" target="_blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" align="center" alt="lucat564" height="40" width=auto /></a>
-<!-- <a href="https://linkedin.com/in/cs-lucasguimaraes" target="_blank"><img align="right"src="https://www.svgrepo.com/show/475661/linkedin-color.svg" align="center" alt="cs-lucasguimaraes" height="30" width=auto /></a> -->
 
 <br> 
 
 <!-- Presentation -->
 
+<div>
+
 <h1 align="center">Hi 👋, I'm Lucas Guimarães</h1>
 <h3 align="center">A computer science student from Brazil</h3>
 
+</div>
 <!-- Body  -->
 
 <div style="text-align: justify;"> 
