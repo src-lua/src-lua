@@ -1,9 +1,3 @@
-<style>
-img {
-  transform: translate(0, 6px);
-}
-</style>
-
 <!-- Header -->
 
 <a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank"><img align="right" src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg" align="center" alt="cs.lucas.guimaraes@gmail.com" height="35" width=auto /></a>
@@ -55,16 +49,16 @@ img {
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-gap: 10px;">
 <a href="https://github.com/CS-LucasGuimaraes/jogo_da_velha" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=light&show_owner=true" alt="jogo_da_velha" width="100%" height="auto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=light&show_owner=true" alt="jogo_da_velha" width="auto" height="auto">
 </a>
 <a href="https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=light&show_owner=true" alt="MaratonaCIn_Entry-2023" width="100%" height="auto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=light&show_owner=true" alt="MaratonaCIn_Entry-2023" width="auto" height="auto">
 </a>
 <a href="https://github.com/CS-LucasGuimaraes/lgf_cplib" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=light&show_owner=true" alt="lgf_cplib" width="100%" height="auto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=light&show_owner=true" alt="lgf_cplib" width="auto" height="auto">
 </a>
 <a href="https://github.com/CS-LucasGuimaraes/quadraticalc" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=quadraticalc&theme=light&show_owner=true" alt="QuadratiCalc" width="100%" height="auto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=quadraticalc&theme=light&show_owner=true" alt="QuadratiCalc" width="auto" height="auto">
 </a>
 </div>
 
@@ -98,13 +92,17 @@ img {
 For any further questions or inquiries, reach me at:
 
 &nbsp;&nbsp;
-![mail](https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg) [cs.lucas.guimaraes@gmail.com](mailto:cs.lucas.guimaraes@gmail.com)
+<img style="transform: translate(0, 6px);
+" src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg" alt="mail"> <a href="mailto:cs.lucas.guimaraes@gmail.com" >cs.lucas.guimaraes@gmail.com</a>
 <br>
 &nbsp;&nbsp;
-![discord](https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brand-discord.svg) [@lucat564](https://discordapp.com/users/294562171877195777)
+<img style="transform: translate(0, 6px);
+" src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brand-discord.svg" alt="discord"> <a href="https://discordapp.com/users/294562171877195777">@lucat564</a>
 <br>
 &nbsp;&nbsp;
-![phone](https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/phone.svg) [+55 (77) 9 8114-2835](tel:+5577981142835)
+<img style="transform: translate(0, 6px);
+" src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/phone.svg" alt="phone"> <a href="tel:+5577981142835">+55 (77) 9 8114-2835</a></p>
+
 
 ## ⭐️ Interesting Info <a name="interesting-info"></a>
 
