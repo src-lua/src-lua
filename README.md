@@ -100,7 +100,7 @@ For any further questions or inquiries, reach me at:
 " src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/brand-discord.svg" alt="discord"> <a href="https://discordapp.com/users/294562171877195777">@lucat564</a>
 <br>
 &nbsp;&nbsp;
-<img style="transform: translate(0, 6px);
+<img style="transform: translate(0, 40px);
 " src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/phone.svg" alt="phone"> <a href="tel:+5577981142835">+55 (77) 9 8114-2835</a></p>
 
 
