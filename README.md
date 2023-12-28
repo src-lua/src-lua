@@ -37,14 +37,9 @@
   <img src="icons/light-mode/mail.png" alt="my e-mail" width="35" height="auto">
 </picture>
 </a>
-<!--  -->
 </div>
-
-<br>
-
 <!-- Presentation -->
 <div>
-
 <h1 align="center">Hi 👋, I'm Lucas Guimarães</h1>
 <h3 align="center">A computer science student from Brazil</h3>
 
