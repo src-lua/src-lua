@@ -1,3 +1,10 @@
+<!-- <a href="https://wakatime.com/@cs_lucasguimaraes" target="_blank">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=cs_lucasguimaraes&layout=compact&display_format=percent&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cs_lucasguimaraes&layout=compact&display_format=percent&theme=light" alt="my website" width="auto" height="auto">
+</picture>
+</a> -->
+
 <!-- Header -->
 
 <div align="right">
@@ -93,26 +100,26 @@
 
 ## 📝 My Projects <a name="my-projects"></a>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-gap: 10px;">
-<a href="https://github.com/CS-LucasGuimaraes/jogo_da_velha" target="_blank">
+<div style="display: grid; grid-template-columns: repeat(2, minmax(250px, 1fr)); grid-gap: 20px;">
+<a align="left" href="https://github.com/CS-LucasGuimaraes/jogo_da_velha" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=dark&show_owner=true">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=light&show_owner=true" alt="jogo_da_velha" width="auto" height="auto">
 </picture>
 </a> 
-<a href="https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023" target="_blank">
+<a align="right" href="https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=dark&show_owner=true">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=light&show_owner=true" alt="MaratonaCIn_Entry-2023" width="auto" height="auto">
 </picture>
 </a>
-<a href="https://github.com/CS-LucasGuimaraes/lgf_cplib" target="_blank">
+<a align="left" href="https://github.com/CS-LucasGuimaraes/lgf_cplib" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=dark&show_owner=true">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=light&show_owner=true" alt="lgf_cplib" width="auto" height="auto">
 </picture>
 </a>
-<a href="https://github.com/CS-LucasGuimaraes/quadraticalc" target="_blank">
+<a align="right" href="https://github.com/CS-LucasGuimaraes/quadraticalc" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=QuadratiCalc&theme=dark&show_owner=true">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=QuadratiCalc&theme=light&show_owner=true" alt="QuadratiCalc" width="auto" height="auto">
