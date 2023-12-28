@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
 
 /* @media (prefers-color-scheme: light) { */
   .icon {
@@ -12,7 +12,7 @@
     }
 }
 
-</style> -->
+</style>
 <!-- Header -->
 
 <a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank"><img align="right" src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg" align="center" alt="cs.lucas.guimaraes@gmail.com" height="35" width=auto /></a>
@@ -24,9 +24,6 @@
 <br> 
 
 
-<a href="https://cs-lucasguimaraes.github.io/" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="orange" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" /> </svg>
-<a>
 
 <!-- Presentation -->
 <div>
@@ -40,6 +37,7 @@
 <div style="text-align: justify;"> 
 
 ## 🖖 About Me <a name="about-me"></a>
+  <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="orange" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" /> </svg>
 
   I'm a code architect passionate about solving complex challenges through clever algorithms. I'm driven by the endless possibilities that code and algorithms unlock, shaping a brighter future one line at a time. At the Center of Informatics (CIn) on UFPE, I'm mastering the art of building tech that impacts real-world problems, fueled by a strong belief in the power of collaboration. When I'm not debugging code, you'll find me jamming on the piano, harmonizing my passions for tech and music. Let's team up and create solutions that make a difference!
 
