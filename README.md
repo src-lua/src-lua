@@ -1,39 +1,41 @@
-<div style=" text-align: center;">
-
-![](https://t4.ftcdn.net/jpg/03/08/41/21/360_F_308412175_yrqkHPciFF3Px259sqGx5qID4hrueUmT.jpg)
-
-"We're working on some icon improvements, so they're currently unavailable. We apologize for any inconvenience and will have them and running soon."
-
-</div>
-
-<br>
 <!-- Header -->
 
-<div style="float: right; sanitize=true;" sanitize=true>
+<div style="float: right;">
 <!-- Website -->
-<a href="https://cs-lucasguimaraes.github.io/" target="_blank" style="color: currentColor; sanitize=true;">
-<svg style="sanitize=true" xmlns="http://www.w3.org/2000/svg" sanitize=true class="icon icon-tabler icon-tabler-user" width="35" height="35" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none" /><path d="M8 7a4 4 0 1 0 8 0a4 4 0 0 0 -8 0" /><path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" /> </svg>
+<a href="https://cs-lucasguimaraes.github.io/" target="_blank" style="color: currentColor;">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/user.png">
+  <img src="icons/light-mode/user.png" alt="my website" width="35" height="auto">
+</picture>
 </a>
 <!-- GitHub -->
 <a href="https://github.com/CS-LucasGuimaraes" target="_blank" style="color: currentColor;">
-  <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="35" height="35" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
-  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5"></path>
-</svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/brand-github.png">
+  <img src="icons/light-mode/brand-github.png" alt="my github page" width="35" height="auto">
+</picture>
 </a>
 <!-- LinkedIn -->
 <a href="https://linkedin.com/in/cs-lucasguimaraes" target="_blank" style="color: currentColor;">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-linkedin" width="35 " height="35 " viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 11l0 5" /><path d="M8 8l0 .01" /><path d="M12 16l0 -5" /><path d="M16 16v-3a2 2 0 0 0 -4 0" /></svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/brand-linkedin.png">
+  <img src="icons/light-mode/brand-linkedin.png" alt="my linkedin" width="35" height="auto">
+</picture>
 </a>
 <!-- Discord -->
 <a href="https://discordapp.com/users/294562171877195777
 " target="_blank" style="color: currentColor;">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-discord" width="35" height="35" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M14 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M15.5 17c0 1 1.5 3 2 3c1.5 0 2.833 -1.667 3.5 -3c.667 -1.667 .5 -5.833 -1.5 -11.5c-1.457 -1.015 -3 -1.34 -4.5 -1.5l-.972 1.923a11.913 11.913 0 0 0 -4.053 0l-.975 -1.923c-1.5 .16 -3.043 .485 -4.5 1.5c-2 5.667 -2.167 9.833 -1.5 11.5c.667 1.333 2 3 3.5 3c.5 0 2 -2 2 -3" /><path d="M7 16.5c3.5 1 6.5 1 10 0" /></svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/brand-discord.png">
+  <img src="icons/light-mode/brand-discord.png" alt="my discord account" width="35" height="auto">
+</picture>
 </a>
 <!-- email -->
 <a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank" style="color: currentColor;">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="35" height="35" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" /><path d="M3 7l9 6l9 -6" /></svg>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/mail.png">
+  <img src="icons/light-mode/mail.png" alt="my e-mail" width="35" height="auto">
+</picture>
 </a>
 <!--  -->
 </div>
@@ -67,15 +69,32 @@
 - [⭐️ Interesting Info ](#️-interesting-info-)
 
 ## ⚙️  Technologies <a name="technologies"></a>
+<div style="display: grid; grid-template-columns: repeat(2, minmax(200px, 1fr)); grid-gap: 5px;">
+<div>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" alt="python" height="40" width="40" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" alt="C" height="40" width="40" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++" height="40" width="40" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" alt="HTML5" height="40" width="40" /></a>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="CSS3" height="40" width="40" /></a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/markdown-original.png">
+  <img align="left" src="icons/light-mode/markdown-original.png" align="center" alt="git" height="40" width="40">
+</picture>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="center" alt="Markdown" height="40" width="40" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/github-original.png">
+  <img align="left" src="icons/light-mode/github-original.png" align="center" alt="GitHub" height="40" width="40">
+</picture>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center" alt="VSCode" height="40" width="40" />
+</div>
+<a align="right" href="https://github.com/CS-LucasGuimaraes" target="_blank">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-lucasguimaraes&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-lucasguimaraes&theme=light" alt="Most used Languages" width="auto" height="auto">
+</picture>
+</a> 
+</div>
 
-
-<a href="https://www.python.org" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" align="center" alt="python" height="40" width="40" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" align="center" alt="C" height="40" width="40" /></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" align="center" alt="C++" height="40" width="40" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" align="center" alt="git" height="40" width="40" /></a>
-
-<br> 
-<br>
 
 ## 📝 My Projects <a name="my-projects"></a>
 
@@ -138,20 +157,29 @@ For any further questions or inquiries, reach me at:
 <div>
 <!-- email -->
 <a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank" style="color: currentColor;">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-mail" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="position: relative; top: 6px;"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" /><path d="M3 7l9 6l9 -6" /></svg> &nbsp; cs.lucas.guimaraes@gmail.com
+<picture style="position: relative; top: 6px;">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/mail.png">
+  <img src="icons/light-mode/mail.png" alt="my e-mail" width="24" height="auto">
+</picture> &nbsp; cs.lucas.guimaraes@gmail.com
 </a>
 </div>
 <div>
 <!-- Discord -->
 <a href="https://discordapp.com/users/294562171877195777
 " target="_blank" style="color: currentColor; ">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-discord" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="position: relative; top: 6px;"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M14 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M15.5 17c0 1 1.5 3 2 3c1.5 0 2.833 -1.667 3.5 -3c.667 -1.667 .5 -5.833 -1.5 -11.5c-1.457 -1.015 -3 -1.34 -4.5 -1.5l-.972 1.923a11.913 11.913 0 0 0 -4.053 0l-.975 -1.923c-1.5 .16 -3.043 .485 -4.5 1.5c-2 5.667 -2.167 9.833 -1.5 11.5c.667 1.333 2 3 3.5 3c.5 0 2 -2 2 -3" /><path d="M7 16.5c3.5 1 6.5 1 10 0" /></svg> &nbsp; @lucat564
+<picture style="position: relative; top: 6px;">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/brand-discord.png">
+  <img src="icons/light-mode/brand-discord.png" alt="my discord" width="24" height="auto">
+</picture> &nbsp; @lucat564
 </a>
 </div>
 <div>
 <!-- phone -->
 <a href="tel:+5577981142835" target="_blank" style="color: currentColor;">
-<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-phone" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round" style="position: relative; top: 6px;"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2" /></svg> &nbsp; +55 (77) 9 8114-2835
+<picture style="position: relative; top: 6px;">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/phone.png">
+  <img src="icons/light-mode/phone.png" alt="my phone" width="24" height="auto">
+</picture> &nbsp; +55 (77) 9 8114-2835
 </a>
 </div>
 
