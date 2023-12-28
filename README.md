@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 
 /* @media (prefers-color-scheme: light) { */
   .icon {
@@ -12,7 +12,7 @@
     }
 }
 
-</style>
+</style> -->
 <!-- Header -->
 
 <a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank"><img align="right" src="https://raw.githubusercontent.com/tabler/tabler-icons/master/icons/mail.svg" align="center" alt="cs.lucas.guimaraes@gmail.com" height="35" width=auto /></a>
