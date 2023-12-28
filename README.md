@@ -1,6 +1,6 @@
 <!-- Header -->
 
-<div style="float: right;">
+<div align="right">
 <!-- Website -->
 <a href="https://cs-lucasguimaraes.github.io/" target="_blank" style="color: currentColor;">
 <picture>
