@@ -182,7 +182,8 @@ For any further questions or inquiries, reach me at:
 ## ⭐️ Interesting Info <a name="interesting-info"></a>
 
 * 🔭 Coding my way to the top! Solving problems and climbing the leaderboard in the [MaratonaCIn Entry Contest](https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023).
-* 🌱 I'm currently unraveling the magic of Dynamic Programming!
+* 🎮 Learning Object-oriented programming (OOP) while developing [Plataformer](https://github.com/CS-LucasGuimaraes/plataformer).
+* 🌱 I'm currently unraveling the magic behind PyGame!
 * 🤘 I'm really in love with rock and roll. My favorite band is Måneskin.
 * 😄 Pronouns: He/She | Feel free to use whichever ones feel most natural to you.
 * ⚡ Fun fact: I code in white theme, but don't worry, I'm not afraid of the dark. I just prefer my bugs well-lit and easy to swat.  
