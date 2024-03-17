@@ -49,19 +49,24 @@
 <div style="text-align: justify; "> 
 
 ## 🖖 About Me <a name="about-me"></a>
-
-  I'm a code architect passionate about solving complex challenges through clever algorithms. I'm driven by the endless possibilities that code and algorithms unlock, shaping a brighter future one line at a time. At the Center of Informatics (CIn) on UFPE, I'm mastering the art of building tech that impacts real-world problems, fueled by a strong belief in the power of collaboration. When I'm not debugging code, you'll find me jamming on the piano, harmonizing my passions for tech and music. Let's team up and create solutions that make a difference!
+  I'm a code architect passionate about solving complex challenges trough clever and efficient algorithms. This passion for optimization led me to join the prestigious [MaratonaCIn](https://portal.cin.ufpe.br/pessoas-e-grupos/grupos-e-associacoes/maratona-cin/) competitive programming team at UFPE.
+  Through intense competition and collaboration, I honed my problem-solving skills and learned the power of teamwork to solve real-world problems.
+  Beyond code, I'm fascinated by the way algorithms can unlock solutions, fueling my constant drive to learn and grow as a developer. 
+  
+  When I'm not debugging code, you'll find me jamming on the piano, harmonizing my passions for tech and music. Logic and creativity are my two muses, one whispering the rules, the other singing the possibilities. 
+  Let's team up and create solutions that make a difference!
 
 ## 📖 Table of Contents
 
-- [🖖 About Me ](#-about-me-)
-- [📖 Table of Contents](#-table-of-contents)
-- [⚙️  Technologies ](#️--technologies-)
-- [📝 My Projects ](#-my-projects-)
-- [🎓 Educational Background ](#-educational-background-)
-- [🧑‍💻 Work Experience ](#-work-experience-)
-- [✉️ Contact ](#️-contact-)
-- [⭐️ Interesting Info ](#️-interesting-info-)
+- [🖖 About Me](#about-me)
+- [📖 Table of Contents](#table-of-contents)
+- [⚙️  Technologies](#️technologies)
+- [📝 My Projects](#my-projects)
+- [🎓 Educational Background](#educational-background)
+- [🧑‍💻 Work Experience](#work-experience)
+- [🧑‍💻 📢 Extracurricular](#extracurricular)
+- [✉️ Contact](#️contact)
+- [⭐️ Interesting Info](#️interesting-info)
 
 ## ⚙️  Technologies <a name="technologies"></a>
 <div style="display: grid; grid-template-columns: repeat(2, minmax(200px, 1fr)); grid-gap: 5px;">
@@ -146,6 +151,14 @@
   > * **The Power of Community:** *I witnessed firsthand the strength and resilience of communities, even in the face of adversity.*
 
 
+## 📢 Extracurricular <a name="extracurricular"></a>
+**MaratonaCIn (UFPE)** ***2024~today*** <br>
+*Competitive Programming Team* 
+  > * MaratonaCIn is the Brazilian team with the most wins (ten times champion) in national competitions. 
+  > * Honed problem-solving and algorithmic thinking skills through participation in various coding competitions with a prestigious team.
+  > * Actively contributing to the team's success by collaboratively tackling complex challenges.
+
+
 ## ✉️ Contact <a name="contact"></a>
 For any further questions or inquiries, reach me at:
 
@@ -181,11 +194,12 @@ For any further questions or inquiries, reach me at:
 
 ## ⭐️ Interesting Info <a name="interesting-info"></a>
 
-* 🔭 Coding my way to the top! Solving problems and climbing the leaderboard in the [MaratonaCIn Entry Contest](https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023).
+* 🔭 Coding my way to the top! Upsolving problems that were presented during [MaratonaCIn Entry Contest](https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023).
 * 🎮 Learning Object-oriented programming (OOP) while developing [Plataformer](https://github.com/CS-LucasGuimaraes/plataformer).
 * 🌱 I'm currently unraveling the magic behind PyGame!
+* 🏃 Proud to be part of the competitive programming team [MaratonaCin](https://portal.cin.ufpe.br/pessoas-e-grupos/grupos-e-associacoes/maratona-cin/)!
 * 🤘 I'm really in love with rock and roll. My favorite band is Måneskin.
-* 😄 Pronouns: He/She | Feel free to use whichever ones feel most natural to you.
+* 😄 Pronouns: He/She - Feel free to use whichever ones feel most natural to you.
 * ⚡ Fun fact: I code in white theme, but don't worry, I'm not afraid of the dark. I just prefer my bugs well-lit and easy to swat.  
 
 <picture>
