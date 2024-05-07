@@ -99,31 +99,14 @@
 ## 📝 My Projects <a name="my-projects"></a>
 
 <div style="display: grid; grid-template-columns: repeat(2, minmax(250px, 1fr)); grid-gap: 20px;">
-<a align="left" href="https://github.com/CS-LucasGuimaraes/Plataformer" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=Plataformer&theme=dark&show_owner=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=Plataformer&theme=light&show_owner=true" alt="Plataformer" width="auto" height="auto">
-</picture>
-</a>
-<a align="right" href="https://github.com/CS-LucasGuimaraes/jogo_da_velha" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=dark&show_owner=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=light&show_owner=true" alt="jogo_da_velha" width="auto" height="auto">
-</picture>
-</a> 
-<a align="left" href="https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=dark&show_owner=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=light&show_owner=true" alt="MaratonaCIn_Entry-2023" width="auto" height="auto">
-</picture>
-</a>
-<a align="right" href="https://github.com/CS-LucasGuimaraes/lgf_cplib" target="_blank">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=dark&show_owner=true">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=light&show_owner=true" alt="lgf_cplib" width="auto" height="auto">
-</picture>
-</a>
+<a align="left" href="https://github.com/CS-LucasGuimaraes/Plataformer" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=Plataformer&theme=dark&show_owner=true">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=Plataformer&theme=light&show_owner=true" alt="Plataformer" width="auto" height="auto"> </picture> </a>
+<a align="right" href="https://github.com/CS-LucasGuimaraes/CIn_Algorithms" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=CIn_Algorithms&theme=dark&show_owner=true">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=CIn_Algorithms&theme=light&show_owner=true" alt="CIn_Algorithms" width="auto" height="auto"> </picture> </a>
+<a align="right" href="https://github.com/CS-LucasGuimaraes/lgf-MaratonaCIn" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf-MaratonaCIn&theme=dark&show_owner=true">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf-MaratonaCIn&theme=light&show_owner=true" alt="lgf-MaratonaCIn" width="auto" height="auto"> </picture> </a>
+<a align="right" href="https://github.com/CS-LucasGuimaraes/lgf_cplib" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=dark&show_owner=true">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=lgf_cplib&theme=light&show_owner=true" alt="lgf_cplib" width="auto" height="auto"> </picture> </a>
+<a align="left" href="https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=dark&show_owner=true">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=MaratonaCIn_Entry-2023&theme=light&show_owner=true" alt="MaratonaCIn_Entry-2023" width="auto" height="auto"> </picture> </a>
+<a align="right" href="https://github.com/CS-LucasGuimaraes/jogo_da_velha" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=dark&show_owner=true">   <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS-LucasGuimaraes&repo=jogo_da_velha&theme=light&show_owner=true" alt="jogo_da_velha" width="auto" height="auto"> </picture> </a> 
 </div>
+
 
 
 ## 🎓 Educational Background <a name="educational-background"></a>
@@ -194,9 +177,8 @@ For any further questions or inquiries, reach me at:
 
 ## ⭐️ Interesting Info <a name="interesting-info"></a>
 
-* 🔭 Coding my way to the top! Upsolving problems that were presented during [MaratonaCIn Entry Contest](https://github.com/CS-LucasGuimaraes/MaratonaCIn_Entry-2023).
-* 🎮 Learning Object-oriented programming (OOP) while developing [Plataformer](https://github.com/CS-LucasGuimaraes/plataformer).
-* 🌱 I'm currently unraveling the magic behind PyGame!
+* 🔭 Coding my way to the top! Training to ICPC regionals at [lgf-MaratonaCIn](https://github.com/CS-LucasGuimaraes/lgf-MaratonaCIn).
+* 🌱 I'm currently unraveling the magic behind [Data Strucutures](https://github.com/CS-LucasGuimaraes/CIn_Algorithms)!
 * 🏃 Proud to be part of the competitive programming team [MaratonaCin](https://portal.cin.ufpe.br/pessoas-e-grupos/grupos-e-associacoes/maratona-cin/)!
 * 🤘 I'm really in love with rock and roll. My favorite band is Måneskin.
 * 😄 Pronouns: He/She - Feel free to use whichever ones feel most natural to you.
