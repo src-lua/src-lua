@@ -64,7 +64,7 @@
 - [📝 My Projects](#my-projects)
 - [🎓 Educational Background](#educational-background)
 - [🧑‍💻 Work Experience](#work-experience)
-- [🧑‍💻 📢 Extracurricular](#extracurricular)
+- [📢 Extracurricular](#extracurricular)
 - [✉️ Contact](#️contact)
 - [⭐️ Interesting Info](#️interesting-info)
 
