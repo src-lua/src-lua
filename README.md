@@ -128,41 +128,16 @@ _Federal University of Pernambuco | Universidade Federal de Pernambuco (UPFE)_
 **IT Project Manager** **_2020~2021_** \
 _Super Séries 2020 and 2021 editions_
 
-> _In 2020, the pandemic threw a curveball at "Colégio Oficina's" beloved sports
-> project, "Super Séries." With no options, we pivoted the entire event online,
-> and as Project Manager, I had the incredible opportunity to guide 800 students
-> to virtual victory. Imagine the challenge: keeping so many students engaged
-> and connected through online games amidst a global crisis. But with a
-> dedicated team and a passion for sportsmanship, we made it happen._
->
-> - **Crafting Engaging Activities:** _We curated a diverse range of online
->   games and challenges, ensuring something for everyone – from esports
->   enthusiasts to casual participants._
-> - **Fostering a Virtual Community:** _We built online forums and chat rooms,
->   fostering a sense of camaraderie and connection despite the physical
->   distance._
-> - **Celebrating Achievements:** _We recognized individual and team
->   accomplishments, keeping the competitive spirit alive and motivation high._
->
-> **More Than Just Games:**
->
-> "Super Séries" wasn't just about pixels and points. It was about resilience,
-> adaptability, and the power of community. Seeing students connect, laugh, and
-> cheer each other on, even through screens, was incredibly rewarding.
->
-> **Key Takeaways:**
->
-> - **Embracing Innovation:** _I learned to think outside the box and leverage
->   technology to overcome challenges._
-> - **Leading with Purpose:** _My experience honed my leadership skills and
->   ability to motivate and inspire others._
-> - **The Power of Community:** _I witnessed firsthand the strength and
->   resilience of communities, even in the face of adversity._
+> I coordinated a sports and esports project for over 800 young people, turning a pandemic challenge into an opportunity. By applying agile methodologies and innovative technological solutions, we ensured the continuity of activities and the well-being of participants. This experience allowed me to develop skills in solving complex problems and leading teams in challenging contexts, as well as generating a positive impact on the lives of young people.
 
+**Python Developer** **_2023~2024_** \
+_[The Ultimate Platformer](https://github.com/CS-LucasGuimaraes/Platformer)_
+
+> I participated in the development of a multiplayer platformer game for up to 8 players using agile methodology. Working as a developer, I was responsible for gameplay development, system integration, and primarily screen asset processing, including camera processing and movement. Through sprints and regular meetings, I contributed to the efficient delivery of features and the creation of a high-quality product. The experience allowed me to improve my skills in game development, Python programming, and teamwork.
 ## 📢 Extracurricular
 
 **MaratonaCIn (UFPE)** **_2024~today_** \
- _Competitive Programming Team_
+ _[Competitive Programming Team](https://portal.cin.ufpe.br/pessoas-e-grupos/grupos-e-associacoes/maratona-cin/)_
 
 > - MaratonaCIn is the Brazilian team with the most wins (ten times champion) in
 >   national competitions.
@@ -178,11 +153,11 @@ For any further questions or inquiries, reach me at:
 
 <div>
 <!-- email -->
-<a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank" style="color: currentColor;">
+<a href="mailto:lgf@cin.ufpe.br" target="_blank" style="color: currentColor;">
 <picture style="position: relative; top: 6px;">
   <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/mail.png">
   <img src="icons/light-mode/mail.png" alt="my e-mail" width="24" height="auto">
-</picture> cs.lucas.guimaraes@gmail.com
+</picture> lgf@cin.ufpe.br
 </a>
 </div>
 <div>
@@ -200,14 +175,12 @@ For any further questions or inquiries, reach me at:
 - 🔭 Coding my way to the top! Training to ICPC regionals at
   [lgf-MaratonaCIn](https://github.com/CS-LucasGuimaraes/lgf-MaratonaCIn).
 - 🌱 I'm currently unraveling the magic behind
-  [Data Strucutures](https://github.com/CS-LucasGuimaraes/CIn_Algorithms)!
+  [Efficient Algorithms](https://github.com/CS-LucasGuimaraes/CIn_Algorithms)!
 - 🏃 Proud to be part of the competitive programming team
   [MaratonaCin](https://portal.cin.ufpe.br/pessoas-e-grupos/grupos-e-associacoes/maratona-cin/)!
 - 🤘 I'm really in love with rock and roll. My favorite band is Måneskin.
-- 😄 Pronouns: He/She - Feel free to use whichever ones feel most natural to
-  you.
-- ⚡ Fun fact: I code in white theme, but don't worry, I'm not afraid of the
-  dark. I just prefer my bugs well-lit and easy to swat.
+- 😄 Pronouns: He/She - Feel free to use whichever ones feel most natural to you.
+- ⚡ Fun fact: I code in white theme, but don't worry, I'm not afraid of the dark. I just prefer my bugs well-lit and easy to swat.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CS-LucasGuimaraes/CS-LucasGuimaraes/output/github-contribution-grid-snake-dark.svg">
