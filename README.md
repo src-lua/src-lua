@@ -31,7 +31,7 @@
 </picture>
 </a>
 <!-- email -->
-<a href="mailto:cs.lucas.guimaraes@gmail.com" target="_blank" style="color: currentColor;">
+<a href="mailto:lgf@cin.ufpe.br" target="_blank" style="color: currentColor;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="icons/dark-mode/mail.png">
   <img src="icons/light-mode/mail.png" alt="my e-mail" width="35" height="auto">
