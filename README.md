@@ -1,26 +1,32 @@
 <div align="center">
 
-# Hi 👋, I'm Lua
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Lua
 
 ### A Computer Science student and developer from Brazil
 
 <div align="center">
   <a href="https://github.com/src-lua" target="_blank" style="margin: 0 10px;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/src-lua/src-lua/main/icons/dark-mode/brand-github.png">
-      <img src="https://raw.githubusercontent.com/src-lua/src-lua/main/icons/light-mode/brand-github.png" alt="My GitHub" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/github.svg?color=white">
+      <img src="https://api.iconify.design/mdi/github.svg?color=black" alt="My GitHub" height="30">
     </picture>
   </a>
-  <a href="https://linkedin.com/in/cs-lucasguimaraes" target="_blank" style="margin: 0 10px;">
+  <a href="https://discord.com/users/294562171877195777" target="_blank" style="margin: 0 10px;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/src-lua/src-lua/main/icons/dark-mode/brand-linkedin.png">
-      <img src="https://raw.githubusercontent.com/src-lua/src-lua/main/icons/light-mode/brand-linkedin.png" alt="My LinkedIn" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/discord.svg?color=white">
+      <img src="https://api.iconify.design/mdi/discord.svg?color=%235865F2" alt="My Discord" height="30">
+    </picture>
+  </a>
+  <a href="https://linkedin.com/in/src-lua" target="_blank" style="margin: 0 10px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/linkedin.svg?color=white">
+      <img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" alt="My LinkedIn" height="30">
     </picture>
   </a>
   <a href="mailto:lgf@cin.ufpe.br" target="_blank" style="margin: 0 10px;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/src-lua/src-lua/main/icons/dark-mode/mail.png">
-      <img src="https://raw.githubusercontent.com/src-lua/src-lua/main/icons/light-mode/mail.png" alt="My Email" height="30">
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/gmail.svg?color=white">
+      <img src="https://api.iconify.design/mdi/gmail.svg?color=%23EA4335" alt="My Email" height="30">
     </picture>
   </a>
 </div>
@@ -35,31 +41,97 @@ I'm a Computer Science student at the Federal University of Pernambuco (UFPE) an
 
 For me, code is a medium for both logic and creativity. This dual passion extends to my love for the piano, where I find the same patterns and harmonies that make for beautiful, well-structured software. I am driven by a constant desire to learn, collaborate, and use technology to build solutions that have a meaningful impact.
 
+You may also know me from my earlier academic work as Lucas Guimarães. I now go by Lua.
+
 ---
 
-### ⚙️ Technologies
+### ⚙️ My Tech Stack
 
-- **Languages:** C++, C, Python
-- **Web & Markup:** HTML5, CSS3, Markdown
-- **Tools & Platforms:** CMake, Git, GitHub, VSCode
+**Languages:**
+
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="28"> <img src="https://img.shields.io/badge/C++-663399?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="28"> <img src="https://img.shields.io/badge/Python-DAA520?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" height="28"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTEyNC45MTIgMTkuMzU4Yy0uOTYyLTEuMTk5LTIuNDIyLTEuODU4LTQuMTExLTEuODU4aC05Mi42MWMtMy4zOTcgMC02LjY2NSAyLjY0Mi03LjQ0NCA2LjAxNUwyLjE2MiAxMDQuMDIyYy0uMzk2IDEuNzExLS4wNTggMy4zOTQuOTI2IDQuNjE5Yy45NjMgMS4xOTkgMi40MjMgMS44NTggNC4xMTEgMS44NTh2LjAwMUg5OS44MWMzLjM5NiAwIDYuNjY1LTIuNjQzIDcuNDQzLTYuMDE2bDE4LjU4Ni04MC41MDhjLjM5NS0xLjcxMS4wNTctMy4zOTUtLjkyNy00LjYxOG0tOTguNTg5IDc3LjE3Yy0xLjc0My0yLjM5Ny0xLjMyMy01LjY3My45NC03LjMxOGwzNy4zNzktMjcuMDY3di0uNTU2TDQxLjE1NyAzNi42MDNjLTEuOTE2LTIuMDM4LTEuNzE2LTUuMzMzLjQ0NS03LjM2MXM1LjQ2Ni0yLjAxOSA3LjM4Mi4wMTlsMjguMTggMjkuOTc5YzEuNiAxLjcwMiAxLjcxOCA0LjI3OS40NTcgNi4yNjRjLS4zODQuNzc0LTEuMTgyIDEuNjI4LTIuNTkzIDIuNjE4bC00MS40NSAyOS43NjljLTIuMjYzIDEuNjQ0LTUuNTEyIDEuMDM0LTcuMjU1LTEuMzYzbTU5LjU0My41MzhINjMuNTMyYy0yLjU5NyAwLTQuNzAyLTIuMDgyLTQuNzAyLTQuNjVzMi4xMDUtNC42NSA0LjcwMi00LjY1aDIyLjMzM2MyLjU5NyAwIDQuNzAyIDIuMDgyIDQuNzAyIDQuNjVzLTIuMTA0IDQuNjUtNC43MDEgNC42NSIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+&logoColor=white" alt="PowerShell" height="28">
+
+**APIs & Graphics:**
+<img src="https://img.shields.io/badge/Vulkan-9B1E22?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" height="28"> <img src="https://img.shields.io/badge/GLSL-555555?style=for-the-badge&logo=data:image/svg+xml;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTcuNzc5IDE4LjkyM0EyLjMzIDIuMzMgMCAwIDEgNS40IDE3LjE2Yy4zMDYgMS40NjIgMS45NjEgMi44OTIgNy4xODMgMy41MjlhMTQuMjMgMTQuMjMgMCAwIDAgOS4yMzItMS42MTJzLjczMy0uMzIyLjI5My4xNzZjMCAwLTMuMTA3IDIuODczLTkuMiAyLjlTMS45NyAxOS4xMDcgMiAxNmMtLjAyOS0zLjEwNyA0LjgwNi02LjE4NSAxMC45LTYuMTU1czkuMiAyLjkgOS4yIDIuOWMuNDQuNS0uMjkzLjE3Ni0uMjkzLjE3NmMtMS4wODQtLjctNC4yODYtMi4wODktOS4yMzItMS42MTJjLTQuODY2LjQ2OS02LjQ1MyAyLjEyMi02Ljk4MSAzLjIzNWEzLjMgMy4zIDAgMCAwLS4zMTggMS4yNGEyLjQyNCAyLjQyNCAwIDAgMSAyLjUtMi4zMTZhMi41MDcgMi41MDcgMCAwIDEgMi41MjQgMi43MjdhMi41MDYgMi41MDYgMCAwIDEtMi41MjEgMi43MjVabTE5LjY0Ny0xLjA3NEgzMHYuOTM3aC0zLjY1NnYtNS4xNzdoMS4wODJ6TTIzLjQ1NCAxNmgyLjE2M3YyLjc5MUgyNC45bC0uMTA4LS42NDlhMS45IDEuOSAwIDAgMS0xLjYxNC43ODZhMi40MTQgMi40MTQgMCAwIDEtMi4zNzktMi43MTFhMi40ODUgMi40ODUgMCAwIDEgMi41MzEtMi43NGEyLjA1MyAyLjA1MyAwIDAgMSAyLjI3IDEuNzRoLTEuMDg1YTEuMTM2IDEuMTM2IDAgMCAwLTEuMTMyLS44NTFjLS43NzEgMC0xLjQ4NS41MzQtMS40ODUgMS44NmMwIDEuNDEzLjc3MSAxLjc4MSAxLjUwNiAxLjc4MWExLjI4IDEuMjggMCAwIDAgMS4yNTQtMS4xMzloLTEuMlYxNlpNNy43ODEgMTQuMWExLjg2IDEuODYgMCAwIDAtMS44IDIuMTA1YTEuODYgMS44NiAwIDAgMCAxLjggMi4xMDVhMS44NiAxLjg2IDAgMCAwIDEuOC0yLjEwNWExLjg2IDEuODYgMCAwIDAtMS44LTIuMTA1bTIuOTExIDEuMzgzaC41MjV2LjQ2OGguMDEzYTEuMTIgMS4xMiAwIDAgMSAuOTg3LS41NjNhMS41NjUgMS41NjUgMCAwIDEgMS41MDYgMS42NzdhMS42NzUgMS42NzUgMCAwIDEtMS41ODMgMS44MjRhMSAxIDAgMCAxLS44OC0uNDQzaC0uMDEzVjIwLjFoLS41NTd2LTQuNjIxWk0xMi4xIDE4LjRjLjYwOCAwIDEuMDE5LS41MjcgMS4wMTktMS4yNTRjMC0uNDI0LS4xNzEtMS4yNjQtMS4wMzItMS4yNjRjLS44IDAtLjg5My44NjctLjg5MyAxLjQwNmMwIC44OC41NTEgMS4xMTQuOTA1IDEuMTE0Wm01LS42NTJhMS4zOCAxLjM4IDAgMCAxLTEuNDg4IDEuMTMzYTEuNDg3IDEuNDg3IDAgMCAxLTEuNDgyLTEuNjU4YzAtMS4wMjUuNDk0LTEuODQyIDEuNTg4LTEuODQyYy45NTYgMCAxLjQyNC43NiAxLjQyNCAxLjkzMWgtMi40MjFjMCAuNjkuMzIzIDEuMDg5Ljk2MiAxLjA4OWEuODQuODQgMCAwIDAgLjg1NC0uNjUyem0tLjU5LS44OGMtLjAzMi0uNTEzLS4yNDctLjk4Ny0uOTI0LS45ODdhLjk3Ljk3IDAgMCAwLS45MTguOTg3em0zLjcxMyAxLjkxN2gtLjU1N3YtMi4wMzRjMC0uNTc2LS4xNjUtLjg2Ny0uNzA5LS44NjdjLS4zMTcgMC0uODc0LjItLjg3NCAxLjF2MS44aC0uNTU3di0zLjMwNWguNTI1di40NjhoLjAxM2ExLjIgMS4yIDAgMCAxIDEtLjU2M2ExLjA0NiAxLjA0NiAwIDAgMSAxLjE1OCAxLjE1MnYyLjI1MyIvPjwvc3ZnPg==&logoColor=white" alt="GLSL" height="28"> <img src="https://img.shields.io/badge/SDL3-2C89E6?style=for-the-badge&logo=data:image/svg+xml;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDgwIiBoZWlnaHQ9IjEwODAiIHZpZXdCb3g9IjAgMCAxMDgwIDEwODAiIHhtbDpzcGFjZT0icHJlc2VydmUiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDU0MCA1NDApIi8+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTQwIDU0MCkiLz48cGF0aCBzdHlsZT0ic3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjE7c3Ryb2tlLWRhc2hhcnJheTpub25lO3N0cm9rZS1saW5lY2FwOmJ1dHQ7c3Ryb2tlLWRhc2hvZmZzZXQ6MDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6NDtmaWxsOiNmZmY7ZmlsbC1ydWxlOm5vbnplcm87b3BhY2l0eToxIiB0cmFuc2Zvcm09Im1hdHJpeCg5LjQgMCAwIDkuNCA4NC4zMjIgNC4zMzYpIiBkPSJNNTkgNzQ4YzEwLjUxNi0xLjA2NSAyMC4zNDEtMy42NTUgMjguNzI4LTcuNTY2IDcuNTQ0LTMuNTIxIDEzLjU4LTguMDI0IDE3LjYwMi0xMy4xMTggNi4xNzMtNy44MzQgNy4wMDItMTYuOTE0IDIuMjc0LTI0Ljk2OS0zLjA2LTUuMjItOC4xNjktOS44MjItMTUuMTgyLTEzLjY2Ny0uNjcxLS4zNjYtMS4xOTktLjY2OC0xLjE3MS0uNjY4LjA5MiAwIDMuMDYgMS40MzEgMy45ODcgMS45MjcgNC41MjkgMi40MDQgOC4xMzEgNC45NjggMTEuMjc1IDguMDE3IDMuOTQ5IDMuODMxIDYuNDI5IDcuNzc2IDcuNjQzIDEyLjE2IDEuMTIxIDQuMDUyLjkxMiA4LjU0Ny0uNTg0IDEyLjUzLTIuMDE0IDUuMzYxLTYuMTMxIDEwLjI5NS0xMi4xNTIgMTQuNTY4LTkuNzg0IDYuOTM3LTIzLjc4NyAxMS41MzEtMzkuMzIgMTIuODk3LTQuNDcyLjM3Ni04Ljk2MS40OTUtMTMuNDQ3LjM1NXpNOTUuNDQxIDc2LjgzaC0uMDc2YS41LjUgMCAwIDAtLjE1My0uMDI3bC0uMjE3LS4wMDhhMS4zIDEuMyAwIDAgMC0uMzA1LjAzOGwtLjMwNS4wOTV2MS44NzNoLS45MTZWNzZoLjkxNnYuNDA0YTMgMyAwIDAgMSAuMTc2LS4xNDEgMiAyIDAgMCAxIC4yMDItLjEzNCAxIDEgMCAwIDEgLjIyOS0uMDk1LjguOCAwIDAgMSAuMjUyLS4wNDJoLjA5OWMuMDM4LjAwNC4wNjkuMDA0LjA5OS4wMTF6bS0zLjMzMSAyLjA0OXEtLjgzNC4wMDEtMS4yNzgtLjM4MmMtLjQ0NC0uMzgzLS40NDMtLjYxMS0uNDQzLTEuMDhxMC0uNjgzLjQxMi0xLjA5MWMuNDEyLS40MDguNjYtLjQxMiAxLjE1Ni0uNDEycS42NzUuMDAyIDEuMDE5LjM0N2MuMzQ0LjM0NS4zNC41NjEuMzQuOTkydi4zMTdoLTIuMDExcS4wMTUuMTk0LjA4OC4zMjRhLjU2LjU2IDAgMCAwIC4xOTUuMjA2LjguOCAwIDAgMCAuMjc1LjExNCAxLjcgMS43IDAgMCAwIC42NTYgMCAxLjQgMS40IDAgMCAwIC4yODItLjA5MnEuMTEzLS4wNDcuMjEtLjA5OWwuMTU2LS4wOTloLjA5NXYuNzIxbC0uMjA2LjA3NmExLjUgMS41IDAgMCAxLS4yNTYuMDc2bC0uMzA1LjA1N2EzIDMgMCAwIDEtLjM4OS4wMjN6bS4zMDEtMS44MzVjLS4wMDQtLjE4Ny0uMDUtLjMyNC0uMTM0LS40MjRzLS4yMTQtLjE0NS0uMzg5LS4xNDVhLjU4LjU4IDAgMCAwLS40Mi4xNTNjLS4xMDMuMS0uMTUzLjI0LS4xNjQuNDE2em0tMS44MzItMS4wNDItMS40ODQgMy44MjdoLS45ODRsLjQ0My0xLjA5NS0xLjA3Ni0yLjczMmguOTYybC42MTggMS43NTUuNTgtMS43NTV6bS00LjAxNCAyLjA3MnYtLjU4NGwtLjM3NC4wMzhhMS4yIDEuMiAwIDAgMC0uMjg2LjA2NXEtLjExOS4wNC0uMTg3LjExOGMtLjA2OC4wNzgtLjA2NS4xMjYtLjA2NS4yMTdxMCAuMTk1LjExMS4yNzFjLjExMS4wNzYuMTgzLjA3Mi4zMjguMDcyYS43LjcgMCAwIDAgLjI0OC0uMDUzLjcuNyAwIDAgMCAuMjI1LS4xNDV6bTAgLjQzMS0uMTY4LjEzN2ExIDEgMCAwIDEtLjE5OC4xMTggMS40IDEuNCAwIDAgMS0uMjQuMDg4IDEuNCAxLjQgMCAwIDEtLjMyOC4wMzEuOS45IDAgMCAxLS42NDktLjI1Mi44Mi44MiAwIDAgMS0uMjU2LS42MjZxLS4wMDEtLjMxNS4xMy0uNTA0Yy4xMzEtLjE4OS4yMTQtLjIyOS4zNzgtLjMwNXEuMjQ2LS4xMTQuNTk1LS4xNmwuNzQ0LS4wNjl2LS4wMTVjMC0uMTU2LS4wNjEtLjI1OS0uMTc5LS4zMjFzLS4zMDEtLjA4OC0uNTM4LS4wODhxLS4xNjUgMC0uMzgyLjA1N2EzIDMgMCAwIDAtLjQyNC4xNDFoLS4wOHYtLjY3NWE1IDUgMCAwIDEgLjQ0My0uMDg4IDMuNiAzLjYgMCAwIDEgLjYxMS0uMDUzcS43NjItLjAwMSAxLjEwNy4yNDRjLjM0NS4yNDUuMzQ3LjQwNC4zNDcuNzMzdjEuOTA0aC0uOTEyem0tMS43MDkuMjk4aC0yLjYwMlY3NS4wOWguOTgxdjMuMDA3aDEuNjIyem0tNS4xNzQtLjcyOXYtLjU4NGwtLjM3OC4wMzhhMS4yIDEuMiAwIDAgMC0uMjgyLjA2NXEtLjExOS4wNC0uMTg3LjExOGMtLjA2OC4wNzgtLjA2OS4xMjYtLjA2OS4yMTdxMCAuMTk1LjExNC4yNzFjLjExNC4wNzYuMTgzLjA3Mi4zMjguMDcyYS42LjYgMCAwIDAgLjI0NC0uMDUzLjguOCAwIDAgMCAuMjI5LS4xNDV6bTAgLjQzMS0uMTY4LjEzN2ExIDEgMCAwIDEtLjIwMi4xMTggMS4yIDEuMiAwIDAgMS0uMjQuMDg4IDEuNCAxLjQgMCAwIDEtLjMyNC4wMzEuOS45IDAgMCAxLS42NDktLjI1Mi44My44MyAwIDAgMS0uMjU5LS42MjZxLjAwMS0uMzE1LjEzNC0uNTA0Yy4xMzMtLjE4OS4yMTQtLjIyOS4zNzgtLjMwNWEyIDIgMCAwIDEgLjU5MS0uMTZsLjc0NC0uMDY5di0uMDE1YzAtLjE1Ni0uMDU3LS4yNTktLjE3OS0uMzIxcy0uMjk4LS4wODgtLjUzOC0uMDg4YTEuNSAxLjUgMCAwIDAtLjM3OC4wNTcgMyAzIDAgMCAwLS40MjcuMTQxaC0uMDc2di0uNjc1YTUgNSAwIDAgMSAuNDM5LS4wODggMy42IDMuNiAwIDAgMSAuNjE0LS4wNTNxLjc1Ny0uMDAxIDEuMTA3LjI0NGMuMzUuMjQ1LjM0Ny40MDQuMzQ3LjczM3YxLjkwNGgtLjkxMnptLTIuMDAzLjI5OGgtLjkxNnYtMi44MDFoLjkxNnptLjAyNy0zLjE5OGgtLjk2OXYtLjY3OWguOTY5em0tMS4zMiAzLjE5OGgtLjkxNnYtLjI5bC0uMjAyLjE0OWExLjMgMS4zIDAgMCAxLS4yMDIuMTE4IDEgMSAwIDAgMS0uNDczLjA5OS45My45MyAwIDAgMS0uNzk3LS4zOTdxLS4yOTMtLjM5NC0uMjk0LTEuMDU3IDAtLjM2Ny4wOTktLjYzN2MuMDk5LS4yNy4xNi0uMzM2LjI3NS0uNDY5YTEuMSAxLjEgMCAwIDEgLjM4OS0uMjg2cS4yMy0uMTA4LjQ4MS0uMTA3YTEuMyAxLjMgMCAwIDEgLjM4Mi4wNDZxLjE0My4wNDcuMzQzLjE0NXYtMS4xOTRoLjkxNnptLS45MTYtLjc3MXYtMS4zNzdhMSAxIDAgMCAwLS4zNjYtLjA3MnEtLjMzIDAtLjQ5Ni4yMTdjLS4xNjYuMjE3LS4xNjguMzUxLS4xNjguNjE0cS4wMDEuNDE0LjEzNC41OTljLjEzMy4xODUuMjI5LjE4My40MjcuMTgzYS44LjggMCAwIDAgLjI0NC0uMDQyIDEgMSAwIDAgMCAuMjI1LS4xMjJtLTMuMTE0Ljg0N2MtLjU1MyAwLS45ODEtLjEyNi0xLjI3NC0uMzgycy0uNDQ2LS42MTEtLjQ0Ni0xLjA4cS4wMDItLjY4My40MTYtMS4wOTFjLjQxNC0uNDA4LjY2LS40MTIgMS4xNTYtLjQxMnEuNjc1LjAwMiAxLjAxOS4zNDdjLjM0NC4zNDUuMzQuNTYxLjM0Ljk5MnYuMzE3aC0yLjAxMXEuMDE1LjE5NC4wODguMzI0YS41Ni41NiAwIDAgMCAuMTk1LjIwNnEuMTE0LjA4LjI3NS4xMTRjLjE2MS4wMzQuMjE3LjAzMS4zNDMuMDMxYTEuNCAxLjQgMCAwIDAgLjU5NS0uMTIzcS4xMTMtLjA0Ny4yMS0uMDk5bC4xNTYtLjA5OWguMDk1di43MjFsLS4yMDYuMDc2YTIgMiAwIDAgMS0uMjU2LjA3NmwtLjMwNS4wNTdhMyAzIDAgMCAxLS4zODkuMDIzem0uMzA1LTEuODM1Yy0uMDA4LS4xODctLjA1LS4zMjQtLjEzNC0uNDI0cy0uMjE3LS4xNDUtLjM4OS0uMTQ1cS0uMjY3LjAwMS0uNDIuMTUzYy0uMTUzLjE1Mi0uMTU2LjI0LS4xNjQuNDE2em0tMy4wOTEgMS43NTl2LTEuMzk3bC0uMDA4LS4zNTFhLjcuNyAwIDAgMC0uMDQ2LS4yMzMuMjcuMjcgMCAwIDAtLjEyMi0uMTMuNTUuNTUgMCAwIDAtLjIzMy0uMDQyLjUuNSAwIDAgMC0uMjA2LjA0NiAxLjIgMS4yIDAgMCAwLS4yMjUuMTIydjEuOTg0aC0uOTJ2LTEuMzk3bC0uMDA4LS4zNDdhLjcuNyAwIDAgMC0uMDUtLjIzMy4zLjMgMCAwIDAtLjEyMi0uMTM0LjUuNSAwIDAgMC0uMjI5LS4wNDIuNi42IDAgMCAwLS4yMjEuMDVsLS4yMS4xMTh2MS45ODRoLS45MTZWNzZoLjkxNnYuMzA5cS4yMjgtLjE3OC40MjctLjI4MmEuOTQuOTQgMCAwIDEgLjQ0Ni0uMTAzLjkuOSAwIDAgMSAuNDczLjEyMi44LjggMCAwIDEgLjMxMy4zNjZxLjI2NC0uMjM2LjUtLjM2MmExIDEgMCAwIDEgLjQ3My0uMTI2cS4yMDYuMDAxLjM2Ni4wNjVhLjYzLjYzIDAgMCAxIC4yNzUuMTg3Ljg1Ljg1IDAgMCAxIC4xODcuMzE3IDEuNyAxLjcgMCAwIDEgLjA2MS40ODh2MS44MnptLTQuMjk2LjA1N3EtLjU2LS4wMDItLjgxNy0uMjIxYy0uMjU3LS4yMTktLjI1Mi0uMzg1LS4yNTItLjcxN3YtMS4zMDloLS4zNTF2LS42MTFoLjM1MXYtLjc5N2guOTE2di43OTdoLjg4MXYuNjExaC0uODgxdjEuMjQ4YS41LjUgMCAwIDAgLjA0Mi4xOTguMy4zIDAgMCAwIC4xMy4xMzcuNi42IDAgMCAwIC4yNzEuMDUzIDEgMSAwIDAgMCAuMTk1LS4wMzEuNi42IDAgMCAwIC4xNjQtLjA1N2guMDh2LjYxOGwtLjMxNy4wNTdhMyAzIDAgMCAxLS40MTIuMDIzem0tMi4xODYuMDE5YTIuNCAyLjQgMCAwIDEtLjY2OC0uMDg4IDEuNSAxLjUgMCAwIDEtLjUyMy0uMjY3IDEuMiAxLjIgMCAwIDEtLjM0My0uNDU4IDEuNTUgMS41NSAwIDAgMS0uMTIyLS42NDlxLS4wMDItLjQwNC4xMzQtLjY4M2ExLjMgMS4zIDAgMCAxIC4zNTktLjQ2NiAxLjUgMS41IDAgMCAxIC41MTktLjI1OSAyLjQgMi40IDAgMCAxIC42MTgtLjA4NCAyLjIgMi4yIDAgMCAxIC45NzYuMjI1di43NDhoLS4xMThhMS40IDEuNCAwIDAgMC0uMTM0LS4xMDdxLS4wOC0uMDU4LS4xNzYtLjExMWMtLjA5Ni0uMDUzLS4xNDEtLjA2NS0uMjI1LS4wODhhMSAxIDAgMCAwLS4yNzktLjAzOHEtLjM1MS0uMDAxLS41NDIuMjMzYy0uMTkxLjIzNC0uMTk1LjM2Ni0uMTk1LjYzcTAgLjQxOS4yMDYuNjI2Yy4yMDYuMjA3LjMyMS4yMDYuNTQ2LjIwNmExIDEgMCAwIDAgLjUzLS4xMjZjLjA2NS0uMDM1LjExMS0uMDcyLjE1Ni0uMTA3bC4xMTEtLjEwM2guMTE4di43NDhsLS4xNzkuMDc2YTIgMiAwIDAgMS0uMjE0LjA2OWwtLjI0OC4wNTNhMiAyIDAgMCAxLS4zMDkuMDE5em0tMi43OTcgMHEtLjgzNCAwLTEuMjc4LS4zNzhjLS40NDQtLjM3OC0uNDQzLS42MTQtLjQ0My0xLjA4cS0uMDAxLS42ODguNDE2LTEuMDk1Yy40MTctLjQwNy42Ni0uNDA4IDEuMTU2LS40MDhxLjY3Ni0uMDAxIDEuMDE1LjM0N2MuMzM5LjM0OC4zNC41NjEuMzQuOTkydi4zMTNINTkuNDlxLjAxMy4xOTQuMDg4LjMyNGEuNTYuNTYgMCAwIDAgLjE5MS4yMXEuMTIuMDc2LjI3NS4xMTFhMS42IDEuNiAwIDAgMCAuNjYgMHEuMTUzLS4wMzUuMjgyLS4wODhsLjIwNi0uMTAzLjE1Ni0uMDk1aC4wOTl2LjcxN2wtLjIwNi4wOGEyIDIgMCAwIDEtLjI1Ni4wNzIgMyAzIDAgMCAxLS4zMDkuMDYxIDMgMyAwIDAgMS0uMzg1LjAxOXptLjMwNS0xLjgzNWMtLjAwNC0uMTgzLS4wNTMtLjMyNC0uMTM3LS40MnEtLjEyNi0uMTQ0LS4zODktLjE0NWMtLjE3NSAwLS4zMTcuMDUtLjQxNi4xNTNhLjYzLjYzIDAgMCAwLS4xNjguNDEyem0tMS44NDMtLjIxNGgtLjA3NmExIDEgMCAwIDAtLjE0OS0uMDI3bC0uMjIxLS4wMDhhMS4yIDEuMiAwIDAgMC0uMzAxLjAzOHEtLjE2LjA0Mi0uMzA5LjA5NXYxLjg3N2gtLjkxNnYtMi44MDFoLjkxNnYuNDAxYTIgMiAwIDAgMSAuMTc2LS4xMzcgMS4yIDEuMiAwIDAgMSAuMjAyLS4xMzRxLjA5Ni0uMDU4LjIzMy0uMDk5YTEgMSAwIDAgMSAuMjQ4LS4wNDJsLjA5OS4wMDRhMSAxIDAgMCAxIC4wOTkuMDA4ek01Ni40IDc4LjgwNmgtLjkxNnYtMi44MDFoLjkxNnptLjAyNy0zLjIwMWgtLjk2OXYtLjY3OWguOTY5em0tMS4xNDUgMS4zNDdhMS44IDEuOCAwIDAgMS0uMjQuOTMxIDEuNzQgMS43NCAwIDAgMS0uNjAzLjYzcS0uMzAyLjE4My0uNjYuMjRhNSA1IDAgMCAxLS43NTkuMDUzaC0xLjIyMXYtMy43MTNoMS4yMWE1LjQgNS40IDAgMCAxIC43NzEuMDUgMS44IDEuOCAwIDAgMSAuNjcyLjI0IDEuNyAxLjcgMCAwIDEgLjYwNy42MzNjLjE0NS4yNjMuMjI1LjU3Ni4yMjUuOTM1em0tMS4wMDctLjAwOGMwLS4yNDQtLjA0Mi0uNDU0LS4xMzQtLjYyNmEuOTMuOTMgMCAwIDAtLjQwNC0uNDA4IDEgMSAwIDAgMC0uNDItLjExNGwtLjUyMy0uMDExaC0uMDE5djIuMzI0aC4wMTlsLjU1Ny0uMDExYS45LjkgMCAwIDAgLjQzMS0uMTM0Ljk0Ljk0IDAgMCAwIC4zNjYtLjM5NyAxLjQgMS40IDAgMCAwIC4xMjYtLjYyMnptLTUuMTM2IDEuOTM1Yy0uNTUzIDAtLjk4MS0uMTI2LTEuMjc0LS4zNzhzLS40NDYtLjYxMS0uNDQ2LTEuMDhjMC0uNDU4LjE0MS0uODIuNDE2LTEuMDk1cy42Ni0uNDA4IDEuMTU2LS40MDhxLjY3Ni0uMDAxIDEuMDE1LjM0N2MuMzM5LjM0OC4zNDMuNTYxLjM0My45OTJ2LjMxM2gtMi4wMTFxLjAxMy4xOTUuMDg4LjMyOGEuNTYuNTYgMCAwIDAgLjE5NS4yMDYuOC44IDAgMCAwIC4yNzUuMTExIDEuNiAxLjYgMCAwIDAgLjY1NiAwcS4xNTUtLjAzMy4yODItLjA4OGEyIDIgMCAwIDAgLjIxLS4xMDNsLjE1My0uMDk1aC4wOTl2LjcyMWwtLjIwNi4wNzZhMiAyIDAgMCAxLS4yNTYuMDc2bC0uMzA5LjA1N2EzIDMgMCAwIDEtLjM4NS4wMTl6bS4zMDUtMS44MzJxLS4wMDctLjI4LS4xMzQtLjQyNGMtLjEyNy0uMTQ0LS4yMTctLjE0NS0uMzg5LS4xNDVxLS4yNjcgMC0uNDIuMTUzYy0uMTUzLjE1My0uMTU2LjI0LS4xNjQuNDE2em0tMi4xOSAxLjc1OWgtLjkxNnYtMy44ODFoLjkxNnptLTEuMDg0LTEuNDM4cS0uMDAyLjY3LS4zNTkgMS4wODRjLS4zNTcuNDE0LS41MzQuNDA4LS44ODEuNDA4cS0uMjIgMC0uMzgyLS4wNDZhMS42IDEuNiAwIDAgMS0uMzQ3LS4xNDl2MS4xNjhoLS45MTZ2LTMuODI3aC45MTZ2LjI5NGEyIDIgMCAwIDEgLjQxMi0uMjY3IDEuMSAxLjEgMCAwIDEgLjQ4NS0uMTAzcS41MS4wMDEuNzkuMzg1Yy4yOC4zODQuMjgyLjYxMS4yODIgMS4wNTNtLS45MzkuMDE1cS0uMDAxLS40MDctLjEzNC0uNTkxYy0uMTMzLS4xODQtLjIyNS0uMTg3LS40MTItLjE4N2ExIDEgMCAwIDAtLjI0NC4wMzhjLS4wOC4wMjMtLjE2LjA2NS0uMjQuMTE0djEuNDA4cS4wNzUuMDMuMTYuMDQyYy4wODUuMDEyLjEzLjAxMS4yMS4wMTEuMjIxIDAgLjM4OS0uMDY5LjQ5Ni0uMjA2cS4xNjItLjIwNi4xNjQtLjYzem0tMy4yMjggMS40MjN2LTEuNGwtLjAwOC0uMzQ3cS0uMDA2LS4xNDItLjA0Ni0uMjMzYy0uMDQtLjA5MS0uMDY5LS4xMDMtLjEyMi0uMTNhLjYuNiAwIDAgMC0uNDM5IDAgMS41IDEuNSAwIDAgMC0uMjIxLjEyNnYxLjk4NGgtLjkyM3YtMS40bC0uMDA4LS4zNDdhLjcuNyAwIDAgMC0uMDUtLjIzMy4yNi4yNiAwIDAgMC0uMTIyLS4xMy41LjUgMCAwIDAtLjIyOS0uMDQyLjUuNSAwIDAgMC0uMjE3LjA1IDEuNSAxLjUgMCAwIDAtLjIxLjExOHYxLjk4NGgtLjkxNnYtMi44MDFoLjkxNnYuMzA5cS4yMjMtLjE4MS40MjQtLjI4MmEuOTYuOTYgMCAwIDEgLjQ0Ni0uMTAzcS4yNy4wMDEuNDc3LjEyMmMuMjA3LjEyMS4yMzcuMjAyLjMwOS4zNjJhMi43IDIuNyAwIDAgMSAuNS0uMzU5IDEgMSAwIDAgMSAuNDc3LS4xMjYgMSAxIDAgMCAxIC4zNjYuMDYxLjcuNyAwIDAgMSAuMjc1LjE4NyAxIDEgMCAwIDEgLjE4My4zMjFxLjA2Mi4xODguMDYxLjQ4NXYxLjgyNHptLTMuODkyIDBoLS45MTZ2LTIuODAxaC45MTZ6bS4wMjctMy4xOThoLS45Njl2LS42ODNoLjk2OXptLTIuNzU5IDMuMjY2Yy0uMzAxIDAtLjU2MS0uMDMxLS43OS0uMDg0YTQgNCAwIDAgMS0uNjMtLjIwMnYtLjg4NWguMDkyYy4xOTUuMTYuNDA4LjI3OS42NDUuMzY2YTIgMiAwIDAgMCAuNjg3LjEyNmMuMDU3IDAgLjEzLS4wMDguMjIxLS4wMTVhMSAxIDAgMCAwIC4yMjEtLjA1Ny41LjUgMCAwIDAgLjE3Mi0uMTE4LjI3LjI3IDAgMCAwIC4wNzItLjE5OC4yNy4yNyAwIDAgMC0uMTE0LS4yMjkuOC44IDAgMCAwLS4yNzUtLjEyNmwtLjQyNy0uMDk1YTQgNCAwIDAgMS0uNDI0LS4xMTFxLS40NTMtLjE1LS42NDktLjQwOGMtLjE5Ni0uMjU4LS4xOTUtLjM4NS0uMTk1LS42NDVxMC0uNTE5LjQ2Mi0uODQzYy40NjItLjMyNC42OTQtLjMyMSAxLjE1Ni0uMzIxYTMuNSAzLjUgMCAwIDEgLjY5NC4wNjVxLjM0NC4wNjkuNjE0LjE4M3YuODQ3aC0uMDg0YTIgMiAwIDAgMC0uNTMtLjI5OCAxLjggMS44IDAgMCAwLS44NzQtLjEwNy44LjggMCAwIDAtLjIxNC4wNjkuNDQuNDQgMCAwIDAtLjE2LjExOC4yNS4yNSAwIDAgMC0uMDY1LjE3NnEwIC4xNDEuMTAzLjIyNWMuMTAzLjA4NC4yMS4xMDcuNDEyLjE1M2wuMzc4LjA4YTQgNCAwIDAgMSAuMzg5LjExMXEuNDA3LjEzOC42MDMuMzc0Yy4xOTYuMjM2LjE5OC4zNjYuMTk4LjYyMnEwIC41NTYtLjQ1OC44ODljLS40NTguMzMzLS43MTQuMzQtMS4yMzIuMzR6bTU5LjcyNy02LjMxaC0yNS4xOFYzNi42NTlINzkuNHYyOS4wNjRoMTUuNzA1ek02Ny40NTQgNTQuNjM4cS4wMDEgNS4wMTQtMi4zMDUgOC45ODJjLTIuMzA2IDMuOTY4LTMuNDggNC42NzQtNS44MjYgNi4wOWExNi44IDE2LjggMCAwIDEtNi4zOTUgMi4zMjhxLTMuNDU3LjUyLTcuMzYuNTE5SDMzLjc2NnYtMzUuOTFoMTEuNzAzcTMuOTc3LS4wMDEgNy40NDQuNDg1YTE2LjkgMTYuOSAwIDAgMSA2LjUxMyAyLjMzOSAxNi40MyAxNi40MyAwIDAgMSA1Ljg3NiA2LjExM3EyLjE1MiAzLjg0OCAyLjE1MiA5LjA1OHptLTkuNzI2LS4wNzJxMC0zLjU0OS0xLjI4Mi02LjA2N2MtMS4yODItMi41MTgtMi4xNjMtMi45OTUtMy45MzgtMy45NDVhOS41IDkuNSAwIDAgMC00LjA0MS0xLjEwN2wtNS4wNTItLjA5OWgtLjE3OVY2NS44M2guMTc5bDUuMzg0LS4xMTFxMi4xODYtLjExIDQuMTY3LTEuMjlhOS4xIDkuMSAwIDAgMCAzLjU0NS0zLjg1OGMuODA5LTEuNjM3IDEuMjE3LTMuNjQ0IDEuMjE3LTYuMDA2ek0xNS42ODcgNzMuMjAxcS00LjMzMi0uMDAxLTcuNjEyLS43OTdjLTMuMjgtLjc5Ni00LjIxNi0xLjE5LTYuMDk0LTEuOTc2di04LjUzOWguODYyYTIxLjQgMjEuNCAwIDAgMCA2LjI1OCAzLjUyMmMyLjI4Mi44MjEgNC40OTEgMS4yMzIgNi42MzUgMS4yMzJxLjgxMyAwIDIuMTQxLS4xNzJjMS4zMjgtLjE3MiAxLjU5OS0uMjkgMi4xNDEtLjUzYTQuNyA0LjcgMCAwIDAgMS42NzEtMS4xNDVjLjQ1OC0uNDkzLjY4My0xLjEzNy42ODMtMS45NDJxLjAwMS0xLjM0OC0xLjExNC0yLjE5NGMtMS4xMTUtLjg0Ni0xLjYyOS0uOTczLTIuNjU5LTEuMjMybC00LjExNy0uOTE2YTM0IDM0IDAgMCAxLTQuMDktMS4wNjFxLTQuMzg1LTEuNDczLTYuMjgxLTMuOTUzYy0xLjg5Ni0yLjQ4LTEuOS0zLjczMi0xLjktNi4yMjNxLS4wMDItNS4wNDIgNC40ODMtOC4xNjVjNC40ODUtMy4xMjMgNi43MTktMy4xMjUgMTEuMTk1LTMuMTI1YTM1IDM1IDAgMCAxIDYuNy42NTJxMy4zMy42NTMgNS45NjggMS43NjN2OC4yaC0uODM2cS0yLjEwNi0xLjcxMS01LjEzMi0yLjg5NmMtMy4wMjYtMS4xODUtNC4wOS0xLjE4My02LjIxOS0xLjE4M2ExMyAxMyAwIDAgMC0yLjIyOC4xNzIgOSA5IDAgMCAwLTIuMDguNjQ5IDQuMiA0LjIgMCAwIDAtMS41MyAxLjE0OXEtLjY0OC43Ni0uNjQ5IDEuNjk4IDAgMS4zNzUgMS4wMjYgMi4xODNjMS4wMjYuODA4IDIuMDA3IDEuMDI2IDMuOTY0IDEuNDYxbDMuNjYzLjc5NHExLjc1OC4zODcgMy43NjIgMS4wNjFjMi42MTQuOSA0LjU2NCAyLjExIDUuODM4IDMuNjMyczEuOTEyIDMuNTIyIDEuOTEyIDYuMDE3cTAgNS4zNTItNC40MTkgOC42MDhDMjMuMjEgNzMuMjAxIDIwLjcgNzMuMiAxNS42ODYgNzMuMnoiLz48L3N2Zz4=&logoColor=white" alt="SDL3" height="28"> <img src="https://img.shields.io/badge/Pygame-61CE79?style=for-the-badge&logo=data:image/svg+xml;data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNi44IDEzbDUuMiAzbDUuMi0zbC00LjItMi40MjVWMTRoLTJ2LTMuNDI1ek0xMSA4LjI3NVY3Ljg1cS0xLjEtLjMyNS0xLjgtMS4yMzhUOC41IDQuNXEwLTEuNDUgMS4wMjUtMi40NzVUMTIgMXQyLjQ3NSAxLjAyNVQxNS41IDQuNXEwIDEuMi0uNyAyLjExM1QxMyA3Ljg1di40MjVsNyA0LjAyNXEuNDc1LjI3NS43MzguNzM4VDIxIDE0LjA1djEuOXEwIC41NS0uMjYyIDEuMDEzVDIwIDE3LjdsLTcgNC4wMjVRMTIuNTI1IDIyIDEyIDIydC0xLS4yNzVMNCAxNy43cS0uNDc1LS4yNzUtLjczNy0uNzM3VDMgMTUuOTV2LTEuOXEwLS41NS4yNjMtMS4wMTJUNCAxMi4zem0wIDkuNDVsLTYtMy40NXYxLjY3NUwxMiAyMGw3LTQuMDV2LTEuNjc1bC02IDMuNDVRMTIuNTI1IDE4IDEyIDE4dC0xLS4yNzVNMTIgNnEuNjI1IDAgMS4wNjMtLjQzN1QxMy41IDQuNXQtLjQzNy0xLjA2MlQxMiAzdC0xLjA2Mi40MzhUMTAuNSA0LjV0LjQzOCAxLjA2M1QxMiA2bTAgMTQiLz48L3N2Zz4=&logoColor=white" alt="Pygame" height="28">
+
+**Web & Markup:**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="28"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm94PSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Im04Ljc2IDFsMTAuMDU1IDExMi44ODNsNDUuMTE4IDEyLjU4bDQ1LjI0NC0xMi42MjZMMTE5LjI0IDF6bTg5LjU5MSAyNS44NjJsLTMuMzQ3IDM3LjYwNWwuMDEuMjAzbC0uMDE0LjQ2N3YtLjAwNGwtMi4zNzggMjYuMjk0bC0uMjYyIDIuMzM2TDY0IDEwMS42MDd2LjAwMWwtLjAyMi4wMTlsLTI4LjMxMS03Ljg4OEwzMy43NSA3MmgxMy44ODNsLjk4NSAxMS4wNTRsMTUuMzg2IDQuMTdsLS4wMDQuMDA4di0uMDAybDE1LjQ0My00LjIyOUw4MS4wNzUgNjVINDguNzkybC0uMjc3LTMuMDQzbC0uNjMxLTcuMTI5TDQ3LjU1MyA1MWgzNC43NDlsMS4yNjQtMTRIMzAuNjRsLS4yNzctMy4wNDFsLS42My03LjEzMUwyOS40MDEgMjNoNjkuMjgxeiIvPjwvc3ZnPg==&logoColor=white" alt="CSS3" height="28"> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" height="28">
+
+**Tools & Platforms:**
+
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" height="28"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28">  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiB2aWV3Qm9yPSIwIDAgMTI4IDEyOCI+PHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTkwLjc2NyAxMjcuMTI2YTcuOTcgNy45NyAwIDAgMCA2LjM1LS4yNDRsMjYuMzUzLTEyLjY4MWE4IDggMCAwIDAgNC41My03LjIwOVYyMS4wMDlhOCA4IDAgMCAwLTQuNTMtNy4yMUw5Ny4xMTcgMS4xMmE3Ljk3IDcuOTcgMCAwIDAtOS4wOTMgMS41NDhsLTUwLjQ1IDQ2LjAyNkwxNS42IDMyLjAxM2E1LjMzIDUuMzMgMCAwIDAtNi44MDcuMzAybC03LjA0OCA2LjQxMWE1LjMzNSA1LjMzNSAwIDAgMC0uMDA2IDcuODg4TDIwLjc5NiA2NEwxLjc0IDgxLjM4N2E1LjMzNiA1LjMzNiAwIDAgMCAuMDA2IDcuODg3bDcuMDQ4IDYuNDExYTUuMzMgNS4zMyAwIDAgMCA2LjgwNy4zMDNsMjEuOTc0LTE2LjY4bDUwLjQ1IDQ2LjAyNWE4IDggMCAwIDAgMi43NDMgMS43OTNabTUuMjUyLTkyLjE4M0w1Ny43NCA2NGwzOC4yOCAyOS4wNThWMzQuOTQzWiIgY2xpcC1ydWxlPSJldmVub2RkIi8+PC9zdmc+&logoColor=white" alt="VSCode" height="28">
+
+**Software & Design:**
+
+<img src="https://img.shields.io/badge/Affinity_Designer-1B74C1?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" height="28"> <img src="https://img.shields.io/badge/Affinity_Photo-5A479B?style=for-the-badge&logo=affinityphoto&logoColor=white" alt="Affinity Photo" height="28"> <img src="https://img.shields.io/badge/Affinity_Publisher-E02C26?style=for-the-badge&logo=affinitypublisher&logoColor=white" alt="Affinity Publisher" height="28"> <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" height="28">
 
 ---
 
 ### 📝 My Projects
 
-- **[Prism](https://github.com/src-lua/Prism)**: A foundational 3D graphics processing and rendering library built from scratch in C++.
-- **[PurpleHole](https://github.com/src-lua/PurpleHole)**: A 2D puzzle platformer game built with C++ and SDL3, demonstrating physics and state management.
-- **[IntraPy](https://github.com/src-lua/IntraPy)**: A complete intranet management system built in Python, featuring DNS, server/client architecture, and backup solutions.
-- **[lgf_cplib](https://github.com/src-lua/lgf_cplib)**: A personal and optimized library of templates and functions for competitive programming.
-- **[lgf-MaratonaCIn](https://github.com/src-lua/lgf-MaratonaCIn)**: My training repository for competitive programming contests.
-- **[CIn_Algorithms](https://github.com/src-lua/CIn_Algorithms)**: My personal study notes and implementations of complex algorithms and data structures.
-- **[Plataformer](https://github.com/src-lua/Plataformer)**: A multiplayer platformer game built with Python, my first major project.
+<a href="https://github.com/src-lua/Prism">
+  <img src="https://placehold.co/400x250/2d2d2d/ffffff?text=(Prism+Demo)" alt="Prism Demo" width="48%" align="right">
+</a>
+
+**[Prism](https://github.com/src-lua/Prism)**
+
+A comprehensive, dual-architecture C++ ecosystem for computer graphics, offering parallel modules for both CPU-based computation and GPU-accelerated rendering. The CPU-side core features a self-contained linear algebra library and a renderer implementing classic Whitted-style ray tracing, optimized with a dynamic octree for spatial acceleration. Complementing this, a separate rendering arm leverages the Vulkan API for high-performance graphics. This structure provides a rich environment for exploring and contrasting foundational algorithms with modern hardware-accelerated techniques.
+
+*<small>✨ **Technologies:** C++, Linear Algebra, Ray Tracing, Vulkan, CMake</small>*
+
+<br clear="both"/>
+<hr>
+
+<a href="https://github.com/src-lua/PurpleHole">
+  <img src="https://placehold.co/400x250/2d2d2d/ffffff?text=(PurpleHole+Gameplay)" alt="PurpleHole Gameplay" width="48%" align="right">
+</a>
+
+**[PurpleHole](https://github.com/src-lua/PurpleHole)**
+
+A 2D puzzle-platformer where players solve challenges by shifting between different time periods of the same level. Each timeline presents a unique variation of the environment, allowing players to manipulate objects and pathways across time. Built entirely from scratch in C++, the project uses SDL3 only for window creation and input polling. Every other core system—including the 2D renderer, physics, animation, and object management—was custom-developed. The project also features a fully integrated map editor, created to streamline the level design process. Architecting these interconnected systems was a deep exercise in object-oriented design.
+
+*<small>✨ **Technologies:** C++, SDL3, OOP, Tool Development</small>*
+
+<br clear="both"/>
+<hr>
+
+<a href="https://github.com/src-lua/IntraPy">
+  <img src="https://placehold.co/400x250/2d2d2d/ffffff?text=(IntraPy+System)" alt="IntraPy System" width="48%" align="right">
+</a>
+
+**[IntraPy](https://github.com/src-lua/IntraPy)**
+
+A proof-of-concept voting system in Python, built to model a complete and resilient intranet architecture entirely within the terminal. The ecosystem features a custom DNS for service discovery, a primary server, a hot-backup for fault tolerance, and multiple clients. Security is a central component, with an authentication service built on public-key cryptography to ensure user verification and data integrity. The project is fully automated with scripts for both environment provisioning and high-volume stress testing, designed to validate the system's stability under load.
+
+*<small>✨ **Technologies:** Python, Sockets, Cryptography, Automation (Bash) </small>*
+
+<br clear="both"/>
+<hr>
+
+<a href="https://github.com/src-lua/Platformer">
+  <img src="https://placehold.co/400x250/2d2d2d/ffffff?text=(Platformer+Gameplay)" alt="Platformer Gameplay" width="48%" align="right">
+</a>
+
+**[Platformer](https://github.com/src-lua/Platformer)**
+
+An ambitious project developed during my first semester of Computer Science, this is a local multiplayer platformer for up to 8 players using keyboards or controllers. The game includes several key features: a built-in map editor for creating custom levels, a data saving system, and a modular architecture that allows new tile types to be easily added. As my first major application, Platformer was a foundational experience in project management, object-oriented design, and building a feature-rich, user-facing program from the ground up.
+
+*<small>✨ **Technologies:** Python, Pygame, OOP, Tool Development </small>*
+<br clear="both"/>
+
+#### Other Notable Repositories:
+
+- **[lgf_cplib](https://github.com/src-lua/lgf_cplib):** A personal and optimized library of templates and functions for competitive programming.
+- **[lgf-MaratonaCIn](https://github.com/src-lua/lgf-MaratonaCIn):** My training repository for competitive programming contests.
+- **[MaratonaCIn_Entry-2023](https://github.com/src-lua/MaratonaCIn_Entry-2023):** My code submissions for each stage of the 2023 MaratonaCIn entry contest.
+- **[CIn_Algorithms](https://github.com/src-lua/CIn_Algorithms):** My personal study notes and implementations of complex algorithms and data structures.
 
 ---
 
 ### 🎓 Educational Background
 
-**Bachelor of Computer Science** (2023–Present)
+**Bachelor of Computer Science** (2023–Present) </br>
 *Center of Informatics (CIn) | Federal University of Pernambuco (UFPE)*
 
 ---
@@ -74,8 +146,9 @@ For me, code is a medium for both logic and creativity. This dual passion extend
 - ⚡ **Fun fact:** I code in white theme, but don't worry, I'm not afraid of the dark. I just prefer my bugs well-lit and easy to swat.
 
 ---
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/src-lua/src-lua/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/src-lua/src-lua/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/src-lua/src-lua/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/src-lua/src-lua/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
